@@ -1,0 +1,14 @@
+body {
+  color: white;
+  background: black;
+  
+}
+
+section {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+img {
+  height: 250px;
+}
